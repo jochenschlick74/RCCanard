@@ -5,7 +5,7 @@ The basic set of formulas was published in the 1980 in a German book named
 
 Dieter Schall: Entwerfen und Fliegen von Entenflugmodellen. Villingen-Schwenningen : Neckar-Verlag, 1986
 
-Up to now this archive only contains the basic definitions and tests. Nothing particulary useful.
+Up to now this archive only contains the basic definitions and tests. Nothing particulary
 
 ## Setup (MacOS) 
 1. python3 -m venv env
